@@ -1,4 +1,4 @@
-Collection of game development exercises using Lua and Love2d.
+Collection of game development exercises using Lua and Love.
 
 The order of exercises is: Coin, Shooter, Zombie and Platformer.
 Each one more complex than the one before.
